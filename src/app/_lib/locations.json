@@ -1,0 +1,270 @@
+[
+    {
+        "_id": 1,
+        "name": "Auckland Z Energy",
+        "address": "14 This place is amazing",
+        "price": 6.99,
+        "distance": {"text": "1.2 km", "value": 1200},
+        "duration": {"text": "5 mins", "value": 300},
+        "openingHours": {
+            "from": 8,
+            "to": 21
+        },
+        "geocode": {
+            "lat": -36.738059,
+            "lng": 174.7442
+        },
+        "type": "Service Station",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": false,
+            "car_wash": true,
+            "tyre_pressure": true,
+            "food_and_drink": true,
+            "toilets": false,
+            "atm": false,
+            "ev_charging": false,
+            "lpg_bottle_swap": true
+        }
+    },
+    {
+        "_id": 2,
+        "name": "Auckland Z Energy",
+        "address": "14 This place is amazing",
+        "price": 12.99,
+        "distance": {"text": "2.2 km", "value": 2200},
+        "duration": {"text": "10 mins", "value": 600},
+        "openingHours": {
+            "from": 8,
+            "to": 21
+        },
+        "geocode": {
+            "lat": -36.807183,
+            "lng": 174.79007
+        },
+        "type": "Service Station",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": true,
+            "car_wash": true,
+            "tyre_pressure": false,
+            "food_and_drink": true,
+            "toilets": false,
+            "atm": true,
+            "ev_charging": false,
+            "lpg_bottle_swap": false
+        }
+    },
+    {
+        "_id": 3,
+        "name": "Auckland Z Energy",
+        "address": "14 This place is amazing",
+        "price": 9.99,
+        "distance": {"text": "3.2 km", "value": 3200},
+        "duration": {"text": "15 mins", "value": 900},
+        "openingHours": {
+            "from": 8,
+            "to": 21
+        },
+        "geocode": {
+            "lat": -36.8485,
+            "lng": 174.7461
+        },
+        "type": "Service Station",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": true,
+            "car_wash": true,
+            "tyre_pressure": false,
+            "food_and_drink": true,
+            "toilets": false,
+            "atm": true,
+            "ev_charging": true,
+            "lpg_bottle_swap": true
+        }
+    },
+    {
+        "_id": 4,
+        "name": "Z Energy",
+        "address": "14 This place is amazing",
+        "price": 5.99,
+        "distance": {"text": "4.2 km", "value": 4200},
+        "duration": {"text": "20 mins", "value": 1200},
+        "openingHours": {
+            "from": 8,
+            "to": 21
+        },
+        "geocode": {
+            "lat": -36.791291,
+            "lng": 174.694583
+        },
+        "type": "Service Station",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": true,
+            "car_wash": true,
+            "tyre_pressure": true,
+            "food_and_drink": true,
+            "toilets": true,
+            "atm": true,
+            "ev_charging": true,
+            "lpg_bottle_swap": true
+        }
+    },
+    {
+        "_id": 5,
+        "name": "Gas Station",
+        "address": "38 The best place",
+        "price": 7,
+        "distance": {"text": "5.2 km", "value": 5200},
+        "duration": {"text": "24 mins", "value": 1400},
+        "openingHours": {
+            "from": 8,
+            "to": 20
+        },
+        "geocode": {
+            "lat": -42,
+            "lng": 174
+        },
+        "type": "Truck Stop",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": true,
+            "car_wash": false,
+            "tyre_pressure": true,
+            "food_and_drink": true,
+            "toilets": false,
+            "atm": false,
+            "ev_charging": false,
+            "lpg_bottle_swap": false
+        }
+    },
+    {
+        "_id": 6,
+        "name": "Service Station",
+        "address": "23 Street Avenue",
+        "price": 5.99,
+        "distance": {"text": "6.2 km", "value": 6200},
+        "duration": {"text": "30 mins", "value": 1800},
+        "openingHours": {
+            "from": 6,
+            "to": 22
+        },
+        "geocode": {
+            "lat": -43.343791,
+            "lng": 172.18016
+        },
+        "type": "Truck Stop",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": true,
+            "car_wash": false,
+            "tyre_pressure": false,
+            "food_and_drink": true,
+            "toilets": false,
+            "atm": false,
+            "ev_charging": true,
+            "lpg_bottle_swap": true
+        }
+    },
+    {
+        "_id": 7,
+        "name": "Z Energy Services",
+        "address": "35 The best place",
+        "price": 4.5,
+        "distance": {"text": "7.2 km", "value": 7200},
+        "duration": {"text": "35 mins", "value": 2200},
+        "openingHours": {
+            "from": 10,
+            "to": 22
+        },
+        "geocode": {
+            "lat": -46.344591,
+            "lng": 175.243791
+        },
+        "type": "Truck Stop",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": true,
+            "car_wash": true,
+            "tyre_pressure": true,
+            "food_and_drink": false,
+            "toilets": false,
+            "atm": false,
+            "ev_charging": true,
+            "lpg_bottle_swap": false
+        }
+    },
+    {
+        "_id": 8,
+        "name": "Z Energy Services",
+        "address": "35 The best place",
+        "price": 4.5,
+        "distance": {"text": "8.2 km", "value": 8200},
+        "duration": {"text": "40 mins", "value": 2600},
+        "openingHours": {
+            "from": 10,
+            "to": 22
+        },
+        "geocode": {
+            "lat": -43.743191,
+            "lng": 172.37016
+        },
+        "type": "Truck Stop",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": true,
+            "car_wash": true,
+            "tyre_pressure": true,
+            "food_and_drink": false,
+            "toilets": false,
+            "atm": false,
+            "ev_charging": true,
+            "lpg_bottle_swap": false
+        }
+    },
+    {
+        "_id": 9,
+        "name": "Z Energy Station",
+        "address": "1 Main Street",
+        "price": 4.3,
+        "distance": {"text": "9.2 km", "value": 9200},
+        "duration": {"text": "45 mins", "value": 3200},
+        "openingHours": {"from": 6, "to": 20},
+        "geocode": {"lat": -43.543591, "lng": 172.68016},
+        "type": "Truck Stop",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": true,
+            "car_wash": true,
+            "tyre_pressure": true,
+            "food_and_drink": false,
+            "toilets": false,
+            "atm": false,
+            "ev_charging": true,
+            "lpg_bottle_swap": false
+        }
+    },
+    {
+        "_id": 10,
+        "name": "Service Station",
+        "address": "23 Street Avenue",
+        "price": 6.5,
+        "distance": {"text": "10.2 km", "value": 10200},
+        "duration": {"text": "50 mins", "value": 3600},
+        "openingHours": {"from": 10, "to": 22},
+        "geocode": {"lat": -43.518589, "lng": 172.542193},
+        "type": "Service Station",
+        "services": {
+            "engine_oils": true,
+            "trailer_hire": false,
+            "car_wash": true,
+            "tyre_pressure": true,
+            "food_and_drink": true,
+            "toilets": false,
+            "atm": true,
+            "ev_charging": false,
+            "lpg_bottle_swap": true
+        }
+    }
+]

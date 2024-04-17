@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --font: #eee;
+    --bg-colour: #ffffff;
+    --primary-colour: #7e3b98;
+    --secondary-colour: #c499d0;
+    --action-colour: #72f1c3;
+    
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: none;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #000;
+    background-color: var(--bg-colour);
+}
+
+@layer utilities {
+    
+}
+
+/* prettier-ignore */
+@layer base {
+    .bg {background-color: var(--bg-colour);}
+    .text-primary {color: var(--primary-colour);}
+    .text-secondary {color: var(--secondary-colour);}
+    .text-action {color: var(--action-colour);}
+
+    .bg-primary {background-color: var(--primary-colour);}
+    .bg-secondary {background-color: var(--secondary-colour);}
+    .bg-action {background-color: var(--action-colour);}
+
+    .border-primary {border-color: var(--primary-colour);}
+    .border-secondary {border-color: var(--secondary-colour);}
+    .border-action {border-color: var(--action-colour);}
+}
+
+.roboto {
+    font-family: var(--font-roboto);
+}
